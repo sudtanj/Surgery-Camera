@@ -1,4 +1,4 @@
-# SurgeryCamera [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/sudtanj/OS-Project)
+# Surgery Camera [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/sudtanj/OS-Project)
 A java project making GUI for recording surgery in hospital. 
 
 ## Library Needed
