@@ -1,5 +1,5 @@
 # Surgery Camera [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/sudtanj/OS-Project)
-A java project making GUI for recording surgery in hospital. 
+A java project making GUI for recording surgery in hospital. This is a project for medical informatics
 
 ## Library Needed
 This software is depend on another open source project to run.You may need to download this additional open source library for this software to work
